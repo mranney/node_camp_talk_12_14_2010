@@ -1,0 +1,9 @@
+Value Types
+
+Strings
+Lists
+Sets
+Sorted Sets
+Hashes
+
+http://code.google.com/p/redis/wiki/CommandReference

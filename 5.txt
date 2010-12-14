@@ -1,0 +1,5 @@
+Shared memory over TCP
+
+V8 heap limits
+Multiple nodes
+Multi-language
