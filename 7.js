@@ -11,4 +11,5 @@ client.get("some key", function (err, reply) {
 client.hmset("hash key", "prop1", "val1", "prop2", "val2");
 client.hgetall("hash key", function (err, res) {
     console.log("Val: " + JSON.stringify(res));
+    client.quit();
 });

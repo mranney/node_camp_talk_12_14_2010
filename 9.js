@@ -1,4 +1,4 @@
-// Using Redis for stats and logging
+// Using Redis for stats and logging - demo.ranney.com
 
 var http = require("http"),
     fs = require("fs"),
@@ -47,4 +47,4 @@ server = http.createServer(function (request, response) {
     }
 });
 
-server.listen(9000);
+server.listen(9000); // demo.ranney.com
